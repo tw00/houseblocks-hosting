@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/houseblocks-hosting/static/css/main.fb720283.chunk.css",
-    "main.js": "/houseblocks-hosting/static/js/main.3682e670.chunk.js",
-    "main.js.map": "/houseblocks-hosting/static/js/main.3682e670.chunk.js.map",
+    "main.js": "/houseblocks-hosting/static/js/main.ea67d115.chunk.js",
+    "main.js.map": "/houseblocks-hosting/static/js/main.ea67d115.chunk.js.map",
     "runtime-main.js": "/houseblocks-hosting/static/js/runtime-main.0c22b5b4.js",
     "runtime-main.js.map": "/houseblocks-hosting/static/js/runtime-main.0c22b5b4.js.map",
     "static/js/2.4765b8be.chunk.js": "/houseblocks-hosting/static/js/2.4765b8be.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0c22b5b4.js",
     "static/js/2.4765b8be.chunk.js",
     "static/css/main.fb720283.chunk.css",
-    "static/js/main.3682e670.chunk.js"
+    "static/js/main.ea67d115.chunk.js"
   ]
 }
